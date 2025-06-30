@@ -81,4 +81,4 @@ Requerimientos mínimos: 4GB RAM, GPU recomendada para entrenamiento
 MIT License - Libre para uso académico y comercial.
 ```
 
-<div align="center"> <p>✉️ <strong>Contacto</strong>: adierortix@gmail.com | 🌐 <a href="https://github.com/AdierECO">GitHub</a></p> </div> ```
+<div align="center"> <p>✉️ <strong>Contacto</strong>: adierortix@gmail.com | 🌐 <a href="https://github.com/AdierECO">GitHub</a></p> </div> 
