@@ -6,10 +6,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-2.16.1-orange" alt="TensorFlow">
 </p>
 
-<div align="center">
-  <img src="https://via.placeholder.com/600x400?text=Demo+del+proyecto" width="600" alt="Demo del proyecto">
-</div>
-
 ## 📌 Descripción
 Aplicación web que clasifica emociones faciales usando una red neuronal convolucional (CNN) entrenada con TensorFlow/Keras y una interfaz Flask.
 
