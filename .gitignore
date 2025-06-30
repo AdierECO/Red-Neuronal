@@ -1,19 +1,19 @@
+# Datos de entrenamiento
+proyecto_emociones/dataset/train/**/*
+proyecto_emociones/dataset/test/**/*
+
+# Archivos de modelo
+model/*.h5
+model/*.npy
+
 # Entorno virtual
 emociones_env/
 venv/
 
-# Archivos de Python
-__pycache__/
-*.pyc
-
-# Datos y modelos
-dataset/train/*/*.*
-dataset/test/*/*.*
-static/temp/*
-model/
-*.h5
-*.npy
-
 # Archivos temporales
 static/temp/*
-" > .gitignore
+
+# Archivos del sistema
+__pycache__/
+*.pyc
+.DS_Store
