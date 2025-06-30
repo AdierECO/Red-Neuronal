@@ -26,7 +26,6 @@ venv\Scripts\activate
 
 # 3. Instalar dependencias
 pip install -r requirements.txt
-```
 ⚙️ Configuración
 Prepara tu dataset:
 
