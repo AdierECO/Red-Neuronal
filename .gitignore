@@ -7,8 +7,9 @@ __pycache__/
 *.pyc
 
 # Datos y modelos
-dataset/train/*/
-dataset/test/*/
+dataset/train/*/*.*
+dataset/test/*/*.*
+static/temp/*
 model/
 *.h5
 *.npy
