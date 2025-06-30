@@ -1,6 +1,6 @@
 # Datos de entrenamiento
-proyecto_emociones/dataset/train/**/*
-proyecto_emociones/dataset/test/**/*
+proyecto_emociones/dataset/train/*
+proyecto_emociones/dataset/test/*
 
 # Archivos de modelo
 model/*.h5
@@ -10,8 +10,11 @@ model/*.npy
 emociones_env/
 venv/
 
-# Archivos temporales
-static/temp/*
+# Excluir todo el contenido de static/temp/
+proyecto_emociones/static/temp/
+proyecto_emociones/static/temp/*.jpg
+proyecto_emociones/static/temp/*.png
+proyecto_emociones/static/temp/*.tmp
 
 # Archivos del sistema
 __pycache__/
