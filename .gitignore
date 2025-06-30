@@ -2,21 +2,7 @@
 proyecto_emociones/dataset/train/*
 proyecto_emociones/dataset/test/*
 
-# Archivos de modelo
-model/*.h5
-model/*.npy
 
-# Entorno virtual
-emociones_env/
-venv/
-
-# Excluir todo el contenido de static/temp/
-proyecto_emociones/static/temp/
-proyecto_emociones/static/temp/*.jpg
-proyecto_emociones/static/temp/*.png
-proyecto_emociones/static/temp/*.tmp
-
-# Archivos del sistema
 __pycache__/
 *.pyc
 .DS_Store
