@@ -13,7 +13,7 @@ Aplicación web que clasifica emociones faciales usando una red neuronal convolu
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tuusuario/proyecto-emociones.git
+git clone https://github.com/AdierECO/proyecto-emociones.git
 cd proyecto-emociones
 
 # 2. Crear entorno virtual (Windows)
