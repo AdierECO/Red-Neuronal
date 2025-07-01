@@ -169,4 +169,4 @@ def predecir_emocion(image_path):
         
     except Exception as e:
         print(f"Error en predicción: {str(e)}")
-        return "Error al procesar imagen", 0.0t 
+        return "Error al procesar imagen", 0.0 
