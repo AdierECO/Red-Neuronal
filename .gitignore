@@ -2,6 +2,10 @@
 proyecto_emociones/dataset/train/*
 proyecto_emociones/dataset/test/*
 
+proyecto_emociones/emociones_env/*
+
+proyecto_emociones/model/*
+
 
 __pycache__/
 *.pyc
